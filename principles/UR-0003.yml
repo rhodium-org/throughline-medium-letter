@@ -1,0 +1,10 @@
+uid: UR-0003
+type: user_requirement
+status: approved
+title: "Point and prompt without anything to click"
+text: "There are no links or buttons, so write out addresses in full and state plainly what the reader must do."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Medium — Letter — Navigation and actions"

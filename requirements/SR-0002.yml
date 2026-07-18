@@ -1,0 +1,11 @@
+uid: SR-0002
+type: system_requirement
+status: approved
+title: "Do not rely on the reader jumping between sections"
+text: "Make each point follow from the last as a continuous read; do not ask the reader to skip to another section or refer back, since a letter is read in order."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Letter — Structure for the channel"
+  principle: UR-0001

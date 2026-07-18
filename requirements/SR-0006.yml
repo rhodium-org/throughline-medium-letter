@@ -1,0 +1,11 @@
+uid: SR-0006
+type: system_requirement
+status: approved
+title: "State plainly what the reader must do and by when"
+text: "Set out in the body exactly what the reader must do and by when; there is no button to press, so the required action must be unmistakable in the text."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Letter — Navigation and actions"
+  principle: UR-0003

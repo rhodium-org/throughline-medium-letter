@@ -1,0 +1,11 @@
+uid: SR-0001
+type: system_requirement
+status: approved
+title: "Open with the reason for writing, then the detail, then what happens next"
+text: "Order the letter as a linear read: state why you are writing in the opening, give the detail in the middle, and end with what happens next."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Letter — Structure for the channel"
+  principle: UR-0001

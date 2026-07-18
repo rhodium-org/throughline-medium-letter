@@ -1,0 +1,11 @@
+uid: SR-0008
+type: system_requirement
+status: approved
+title: "Close with a sign-off and the sender's name and role"
+text: "Close the letter with a sign-off and the sender's name and role, so the reader knows who wrote to them and can reply. The register of the sign-off is set by the tone axis, not here."
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Letter — Opening and closing"
+  principle: UR-0004

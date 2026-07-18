@@ -1,0 +1,11 @@
+uid: SR-0007
+type: system_requirement
+status: approved
+title: "Open with the address block, date, reference and salutation"
+text: "Open the letter with the recipient's address block, the date, a reference or subject line and a salutation, so the reader knows at once who it is for and what it concerns."
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Letter — Opening and closing"
+  principle: UR-0004

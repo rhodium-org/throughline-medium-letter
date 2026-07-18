@@ -1,0 +1,11 @@
+uid: SR-0010
+type: system_requirement
+status: approved
+title: "Keep formatting restrained and suited to a letter"
+text: "Prefer prose paragraphs; use headings or bulleted lists only where they genuinely help the reader, rather than styling the letter like a web page."
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Letter — Presentation and formatting"
+  principle: UR-0005

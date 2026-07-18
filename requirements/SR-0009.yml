@@ -1,0 +1,11 @@
+uid: SR-0009
+type: system_requirement
+status: approved
+title: "Make sure the letter still reads in black and white"
+text: "Assume the letter may be printed in black and white; do not rely on colour to carry meaning, and make sure nothing is lost when it is printed plainly."
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Letter — Presentation and formatting"
+  principle: UR-0005

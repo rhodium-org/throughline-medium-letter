@@ -1,0 +1,10 @@
+uid: UR-0005
+type: user_requirement
+status: approved
+title: "Present for a fixed printed page"
+text: "The letter may be printed in black and white, so keep the layout restrained and do not rely on colour or rich formatting."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Medium — Letter — Presentation and formatting"

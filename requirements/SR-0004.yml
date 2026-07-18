@@ -1,0 +1,11 @@
+uid: SR-0004
+type: system_requirement
+status: approved
+title: "Include everything the reader needs within the letter"
+text: "Put everything the reader needs in the letter itself; they cannot click through for more, so do not leave essential detail to a web page or another document."
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Letter — Length and density"
+  principle: UR-0002

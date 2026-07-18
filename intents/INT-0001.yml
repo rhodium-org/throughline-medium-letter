@@ -1,0 +1,8 @@
+uid: INT-0001
+type: intent
+status: approved
+title: "Text is delivered as a letter"
+text: "A letter, posted or sent as a PDF, is read linearly from top to bottom, on paper or a fixed page. The reader cannot click a link, search the text or scroll for more, so the letter must carry everything they need and frame itself with an address block, a salutation and a sign-off. This axis governs how delivery is shaped for that channel — structure, length, navigation, framing and presentation — not universal readability, spelling, register, purpose or audience, each of which is a separate source. Channels are mutually exclusive: a consumer composes exactly one of the web, letter, email, SMS or print sibling sources."
+normative: false
+attrs:
+  source_ref: "TBS Medium — Letter"

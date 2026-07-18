@@ -1,0 +1,11 @@
+uid: SR-0005
+type: system_requirement
+status: approved
+title: "Write addresses and references out in full for the reader to use"
+text: "Write any web address or phone number out in full, since the reader cannot click a link, and give a reference they can quote when they get in touch."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Letter — Navigation and actions"
+  principle: UR-0003

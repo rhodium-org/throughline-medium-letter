@@ -1,0 +1,10 @@
+uid: UR-0004
+type: user_requirement
+status: approved
+title: "Frame the letter with its envelope"
+text: "A letter opens with an address block, date, reference and salutation, and closes with a sign-off; give it that framing."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Medium — Letter — Opening and closing"

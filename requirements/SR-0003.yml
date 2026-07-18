@@ -1,0 +1,11 @@
+uid: SR-0003
+type: system_requirement
+status: approved
+title: "Keep the letter as short as the message allows"
+text: "Keep the letter brief, ideally to a single page, including only what this reader needs for this message."
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Letter — Length and density"
+  principle: UR-0002
