@@ -1,10 +1,12 @@
 uid: UR-0002
 type: user_requirement
-status: approved
-title: "Keep the letter short and self-contained"
-text: "The reader cannot click through for more, so keep the letter brief and make sure it holds everything they need."
+status: proposed
+title: Keep the letter short and self-contained
+text: The reader cannot click through for more, so keep the letter brief and make
+  sure it holds everything they need.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "TBS Medium — Letter — Length and density"
+  source_ref: TBS Medium — Letter — Length and density
